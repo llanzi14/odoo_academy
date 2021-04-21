@@ -12,7 +12,7 @@
         - attendees
     """,
     
-    'author': 'lzi',
+    'author': 'Odoo',
     
     'website': 'https://www.odoo.com',
     
@@ -27,7 +27,6 @@
     ],
     
     'demo': [
-        
-        
+        'demo/academy_demo.xml',
     ],
 }
